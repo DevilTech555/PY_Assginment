@@ -1,4 +1,4 @@
-# PY_Assginment
+# Python_Assginment
 
 ### File extension for python is .py
 
