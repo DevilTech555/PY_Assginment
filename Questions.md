@@ -14,4 +14,4 @@
 ###### 14. Write a pyhton program to read n number strings to list and delete duplicate occurece
 ###### 15. Write a python program to read the email id's of n users and create a list of user id's
 ###### 16. Write a python program to read multiple lines and split each of word using list split and find the occurrence of each word
-###### 17. Write a python program to read multiple lines when you find line that starts with from split the line into words . If the line starts with done stop reading the lines from the user
+###### 17. Write a python program to read multiple lines when you find line that starts with from 'split' then split the line into words . If the line starts with 'done' stop reading the lines from the user
