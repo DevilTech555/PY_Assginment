@@ -1,4 +1,7 @@
 # Python_Assginment
+## USN : 1SK18CS413
+## Name : Naveen PM
+## Sem : 6
 
 ### File extension for python is .py
 
